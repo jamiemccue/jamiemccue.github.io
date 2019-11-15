@@ -264,3 +264,12 @@ textarea {
   }
 }
 
+
+/* My Styles */
+
+body {
+  padding: 60px;
+  font-family: serif;
+  max-width: 900px;
+  font-size: 120%;
+}
